@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<item>
+<title>TV3</title>
+<link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-YhOfMfADEMQ/T34Y8RA_TBI/AAAAAAAAAr0/QscSkCO34kU/s1600/tv3.jpg</thumbnail>
+
+<item>
+<title>NTV7</title>
+<link>http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/zh/2/28/NTV7_New.JPG</thumbnail>
+</item>
+
+<item>
+<title>8TV</title>
+<link>http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8</link>
+<thumbnail>https://lh4.googleusercontent.com/-nO726o6jsK4/TX62-KTRL7I/AAAAAAAAAHk/CDs1CIey2-E/s1600/fg.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV9</title>
+<link>http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8</link>
+<thumbnail>http://4.bp.blogspot.com/-4AJMhfzV-fY/Um5MEGkIiLI/AAAAAAAADPM/Np-tNkbeiSc/s200/tv9.gif</thumbnail>
+</item>
+
+<item>
+<title>Astro Awani</title>
+<link>http://measatott06-i.akamaihd.net/hls/live/202857/OTT_06/master_01.m3u8</link>
+<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
+</item>
