@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <item>
+<title>TV1</title>
+<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch001/chunklist_w1581485145_b814000.m3u8</link>
+<thumbnail>http://1.bp.blogspot.com/-_M6LBi6FrBM/UMVzmbgyx9I/AAAAAAAAAS4/QXxZfHyEHyY/s1600/rtm1.jpg</thumbnail>
+<item>
+
+<item>
+<title>TV2</title>
+<link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch003/chunklist_w2036056109_b1264000.m3u8</link>
+<thumbnail>http://2.bp.blogspot.com/-PWrDkdKk1V8/UZhj9O3S64I/AAAAAAAAASE/6HJVx63nqjE/s320/rtm+2.png</thumbnail>
+<item>
+
+<item>
 <title>TV3</title>
 <link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-YhOfMfADEMQ/T34Y8RA_TBI/AAAAAAAAAr0/QscSkCO34kU/s1600/tv3.jpg</thumbnail>
+<item>
 
 <item>
 <title>NTV7</title>
