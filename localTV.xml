@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
+<Channels>
+
+<Channel>
+<Name>Malaysia TV<Name>
+<thumbnail>http://motoki-y.sakura.ne.jp/illust/flag/45.gif<thumbnail>
+
+<items>
+
 <item>
 <title>TV1</title>
 <link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch001/chunklist_w1581485145_b814000.m3u8</link>
@@ -47,6 +55,51 @@
 <link>http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/media_b508239_w1246988830.m3u8</link>
 <thumbnail>http://mindaaktif.net/wp-content/uploads/2013/10/tvalhijrah.jpg</thumbnail>
 </item>
+
+<items>
+
+<Channel>
+	
+<Channel>
+<Name>Indonesia TV<Name>
+<thumbnail>http://www.mega-flags.com/images/Flag_Indonesia.jpg<thumbnail>
+
+<items>
+
+<item>
+<title>METRO TV</title>
+<link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
+</item>
+
+<item>
+<title>TRANS TV</title>
+<link>http://202.75.23.33:8800/live/ch23/01.m3u8</link>
+</item>
+
+<item>
+<title>TRANS 7</title>
+<link>http://202.75.23.33:8800/live/ch24/01.m3u8</link>
+</item>
+
+<item>
+<title>TVRI</title>
+<link>http://202.75.23.33:8800/live/ch25/01.m3u8</link>
+</item>
+
+<item>
+<title>METRO TV</title>
+<link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
+</item>
+		
+<items>
+	
+<channel>
+
+<channel>
+<Name>Mixed TV<Name>
+<thumbnail>http://www.hdtvexpert.com/wp-content/uploads/2010/12/Mixed-Logos-MR.jpg<thumbnail>
+
+<items>
 
 <item>
 <title>FOX FAMILY MOVIE</title>
@@ -209,31 +262,6 @@
 </item>
 
 <item>
-<title>METRO TV</title>
-<link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
-</item>
-
-<item>
-<title>TRANS TV</title>
-<link>http://202.75.23.33:8800/live/ch23/01.m3u8</link>
-</item>
-
-<item>
-<title>TRANS 7</title>
-<link>http://202.75.23.33:8800/live/ch24/01.m3u8</link>
-</item>
-
-<item>
-<title>TVRI</title>
-<link>http://202.75.23.33:8800/live/ch25/01.m3u8</link>
-</item>
-
-<item>
-<title>METRO TV</title>
-<link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
-</item>
-
-<item>
 <title>ASN SPORT</title>
 <link>http://202.75.23.33:8800/live/ch26/01.m3u8</link>
 </item>
@@ -247,4 +275,9 @@
 <title>BBC</title>
 <link>http://202.75.23.33:8800/live/ch28/01.m3u8</link>
 </item>
+		
+<items>
 
+<channel>
+
+<channels>
