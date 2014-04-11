@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
-<Channels>
-
-<Channel>
-<Name>Malaysia TV<Name>
-<thumbnail>http://motoki-y.sakura.ne.jp/illust/flag/45.gif<thumbnail>
-
-<items>
-
 <item>
 <title>TV1</title>
 <link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch001/chunklist_w1581485145_b814000.m3u8</link>
@@ -56,16 +48,6 @@
 <thumbnail>http://mindaaktif.net/wp-content/uploads/2013/10/tvalhijrah.jpg</thumbnail>
 </item>
 
-<items>
-
-<Channel>
-	
-<Channel>
-<Name>Indonesia TV<Name>
-<thumbnail>http://www.mega-flags.com/images/Flag_Indonesia.jpg<thumbnail>
-
-<items>
-
 <item>
 <title>METRO TV</title>
 <link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
@@ -91,16 +73,6 @@
 <link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
 </item>
 		
-<items>
-	
-<channel>
-
-<channel>
-<Name>Mixed TV<Name>
-<thumbnail>http://www.hdtvexpert.com/wp-content/uploads/2010/12/Mixed-Logos-MR.jpg<thumbnail>
-
-<items>
-
 <item>
 <title>FOX FAMILY MOVIE</title>
 <link>http://202.170.127.27:42579/3KgE47bC3d733sb3Igu-THsz/Fox_FamIlY/playlist.m3u8</link>
@@ -276,8 +248,3 @@
 <link>http://202.75.23.33:8800/live/ch28/01.m3u8</link>
 </item>
 		
-<items>
-
-<channel>
-
-<channels>
