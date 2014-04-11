@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
+<Channels>
+	<Channel>
+	<Name>Malaysia TV<Name>
+	<thumbnail>http://motoki-y.sakura.ne.jp/illust/flag/45.gif</thumbnail>
+		<items>
 <item>
 <title>TV1</title>
 <link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch001/chunklist_w1581485145_b814000.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-_M6LBi6FrBM/UMVzmbgyx9I/AAAAAAAAAS4/QXxZfHyEHyY/s1600/rtm1.jpg</thumbnail>
-<item>
+</item>
 
 <item>
 <title>TV2</title>
 <link>http://edge.rtm.swiftserve.com/live/rtm/amlst:rtm-ch003/chunklist_w2036056109_b1264000.m3u8</link>
 <thumbnail>http://2.bp.blogspot.com/-PWrDkdKk1V8/UZhj9O3S64I/AAAAAAAAASE/6HJVx63nqjE/s320/rtm+2.png</thumbnail>
-<item>
+</item>
 
 <item>
 <title>TV3</title>
 <link>http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8</link>
 <thumbnail>http://1.bp.blogspot.com/-YhOfMfADEMQ/T34Y8RA_TBI/AAAAAAAAAr0/QscSkCO34kU/s1600/tv3.jpg</thumbnail>
-<item>
+</item>
 
 <item>
 <title>NTV7</title>
@@ -47,8 +52,14 @@
 <link>http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/media_b508239_w1246988830.m3u8</link>
 <thumbnail>http://mindaaktif.net/wp-content/uploads/2013/10/tvalhijrah.jpg</thumbnail>
 </item>
-
-<item>
+		</items>
+	</Channel>
+	
+	<Channel>
+	<Name>Indonesia TV<Name>
+	<thumbnail>http://www.mega-flags.com/images/Flag_Indonesia.jpg</thumbnail>
+		<items>
+			<item>
 <title>METRO TV</title>
 <link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
 </item>
@@ -72,7 +83,14 @@
 <title>METRO TV</title>
 <link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
 </item>
-		
+		</items>
+	</channel>
+
+	<channel>
+	<Name>Mixed TV<Name>
+	<thumbnail>http://www.hdtvexpert.com/wp-content/uploads/2010/12/Mixed-Logos-MR.jpg</thumbnail>
+		<items>
+
 <item>
 <title>FOX FAMILY MOVIE</title>
 <link>http://202.170.127.27:42579/3KgE47bC3d733sb3Igu-THsz/Fox_FamIlY/playlist.m3u8</link>
@@ -247,4 +265,6 @@
 <title>BBC</title>
 <link>http://202.75.23.33:8800/live/ch28/01.m3u8</link>
 </item>
-		
+		</items>
+	</channel>
+</channels>
