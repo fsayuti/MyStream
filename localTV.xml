@@ -94,6 +94,21 @@
 		</items>
 		
 	</channel>
+	
+	<Channel>
+	<Name>KID TV<Name>
+	<thumbnail>http://i1.ytimg.com/sh/WMkQvT9_afc/showposter.jpg?v=4fc8ce33</thumbnail>
+	
+		<items>
+		
+		<item>
+		<title>DISCOVERY KIDS</title>
+		<link>http://202.75.23.35:8800/live/ch36/01.m3u8</link>
+		</item>
+		
+		</items>
+		
+	</channel>
 
 	<Channel>
 	<Name>Movies<Name>
@@ -144,11 +159,6 @@
 		<item>
 		<title>CRIME AND INVESTIGATION</title>
 		<link>http://202.75.23.36:8800/live/ch47/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>DISCOVERY KIDS</title>
-		<link>http://202.75.23.35:8800/live/ch36/01.m3u8</link>
 		</item>
 		
 		<item>
