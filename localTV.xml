@@ -124,6 +124,91 @@
 		</items>
 		
 	</channel>
+	
+	<Channel>
+	<Name>Documentaries<Name>
+	<thumbnail>http://www.lyngsat-logo.com/hires/dd/documentary_channel_ca.png</thumbnail>
+	
+		<items>
+		
+		<item>
+		<title>HISTORY</title>
+		<link>http://202.75.23.36:8800/live/ch45/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>BIO</title>
+		<link>http://202.75.23.36:8800/live/ch46/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>CRIME AND INVESTIGATION</title>
+		<link>http://202.75.23.36:8800/live/ch47/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>DISCOVERY KIDS</title>
+		<link>http://202.75.23.35:8800/live/ch36/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>NAT GEO HD</title>
+		<link>http://202.75.23.35:8800/live/ch38/01.m3u8</link>
+		</item>
+
+		<item>
+		<title>NAT GEO WILD</title>
+		<link>http://202.75.23.35:8800/live/ch39/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>TRAVEL CHANNEL</title>
+		<link>http://202.75.23.35:8800/live/ch41/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>DISCOVERY</title>
+		<link>http://202.75.23.34:8800/live/ch29/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>DISCOVERY HD WORLD</title>
+		<link>http://202.75.23.34:8800/live/ch30/01.m3u8</link>
+		</item>
+
+		<item>
+		<title>ANIMAL PLANET</title>
+		<link>http://202.75.23.34:8800/live/ch31/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>DISCOVERY TURBO</title>
+		<link>http://202.75.23.34:8800/live/ch32/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>DISCOVERY SCIENCE</title>
+		<link>http://202.75.23.34:8800/live/ch33/01.m3u8</link>
+		</item>
+
+		<item>
+		<title>DISCOVERY HOME AND HEALTH</title>
+		<link>http://202.75.23.34:8800/live/ch34/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>TLC</title>
+		<link>http://202.75.23.34:8800/live/ch35/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>BABY FIRST</title>
+		<link>http://202.75.23.33:8800/live/ch27/01.m3u8</link>
+		</item>
+		
+		</items>
+		
+	</channel>
 
 	<channel>
 	<Name>Mixed TV<Name>
@@ -181,21 +266,7 @@
 		<link>http://202.75.23.36:8800/live/ch44/01.m3u8</link>
 		</item>
 		
-		<item>
-		<title>HISTORY</title>
-		<link>http://202.75.23.36:8800/live/ch45/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>BIO</title>
-		<link>http://202.75.23.36:8800/live/ch46/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>CRIME AND INVESTIGATION</title>
-		<link>http://202.75.23.36:8800/live/ch47/01.m3u8</link>
-		</item>
-
+	
 		<item>
 		<title>LIFE TIME</title>
 		<link>http://202.75.23.36:8800/live/ch48/01.m3u8</link>
@@ -207,79 +278,18 @@
 		</item>
 		
 		<item>
-		<title>DISCOVERY KIDS</title>
-		<link>http://202.75.23.35:8800/live/ch36/01.m3u8</link>
-		</item>
-		
-		<item>
 		<title>FASHION ONE</title>
 		<link>http://202.75.23.35:8800/live/ch37/01.m3u8</link>
 		</item>
 		
-		<item>
-		<title>NAT GEO HD</title>
-		<link>http://202.75.23.35:8800/live/ch38/01.m3u8</link>
-		</item>
-
-		<item>
-		<title>NAT GEO WILD</title>
-		<link>http://202.75.23.35:8800/live/ch39/01.m3u8</link>
-		</item>
-		
-		
-		<item>
-		<title>TRAVEL CHANNEL</title>
-		<link>http://202.75.23.35:8800/live/ch41/01.m3u8</link>
-		</item>
-
 		<item>
 		<title>MTV ROCK</title>
 		<link>http://202.75.23.35:8800/live/ch42/01.m3u8</link>
 		</item>
 		
 		<item>
-		<title>DISCOVERY</title>
-		<link>http://202.75.23.34:8800/live/ch29/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>DISCOVERY HD WORLD</title>
-		<link>http://202.75.23.34:8800/live/ch30/01.m3u8</link>
-		</item>
-
-		<item>
-		<title>ANIMAL PLANET</title>
-		<link>http://202.75.23.34:8800/live/ch31/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>DISCOVERY TURBO</title>
-		<link>http://202.75.23.34:8800/live/ch32/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>DISCOVERY SCIENCE</title>
-		<link>http://202.75.23.34:8800/live/ch33/01.m3u8</link>
-		</item>
-
-		<item>
-		<title>DISCOVERY HOME AND HEALTH</title>
-		<link>http://202.75.23.34:8800/live/ch34/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>TLC</title>
-		<link>http://202.75.23.34:8800/live/ch35/01.m3u8</link>
-		</item>
-
-		<item>
 		<title>ASN SPORT</title>
 		<link>http://202.75.23.33:8800/live/ch26/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>BABY FIRST</title>
-		<link>http://202.75.23.33:8800/live/ch27/01.m3u8</link>
 		</item>
 		
 		<item>
