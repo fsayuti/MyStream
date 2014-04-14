@@ -106,6 +106,21 @@
 		<link>http://202.75.23.35:8800/live/ch36/01.m3u8</link>
 		</item>
 		
+		<item>
+		<title>JIM JAM</title>
+		<link>http://202.75.23.37:8800/live/ch17/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>NICKOLEDEON</title>
+		<link>http://202.75.23.36:8800/live/ch43/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>CARTOONITO</title>
+		<link>http://202.75.23.36:8800/live/ch49/01.m3u8</link>
+		</item>
+		
 		</items>
 		
 	</channel>
@@ -221,31 +236,11 @@
 	</channel>
 
 	<channel>
-	<Name>Mixed TV<Name>
+	<Name>SPORT TV<Name>
 	<thumbnail>http://www.hdtvexpert.com/wp-content/uploads/2010/12/Mixed-Logos-MR.jpg</thumbnail>
 	
 		<items>
 
-		<item>
-		<title>JIM JAM</title>
-		<link>http://202.75.23.37:8800/live/ch17/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>MTV LIVE HD</title>
-		<link>http://202.75.23.37:8800/live/ch50/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>MEDIACORP</title>
-		<link>http://202.75.23.37:8800/live/ch15/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>VJ FASHION</title>
-		<link>http://202.75.23.37:8800/live/ch16/01.m3u8</link>
-		</item>
-		
 		<item>
 		<title>BEIN SPORT 1</title>
 		<link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
@@ -267,24 +262,38 @@
 		</item>
 		
 		<item>
-		<title>NICKOLEDEON</title>
-		<link>http://202.75.23.36:8800/live/ch43/01.m3u8</link>
-		</item>
-		
-		<item>
 		<title>SENTANA SPORT</title>
 		<link>http://202.75.23.36:8800/live/ch44/01.m3u8</link>
 		</item>
 		
-	
 		<item>
-		<title>LIFE TIME</title>
-		<link>http://202.75.23.36:8800/live/ch48/01.m3u8</link>
+		<title>ASN SPORT</title>
+		<link>http://202.75.23.33:8800/live/ch26/01.m3u8</link>
+		</item>
+		
+		</items>
+		
+	</channel>
+	
+	<Channel>
+	<Name>Entertainment TV<Name>
+	<thumbnail>http://i1.ytimg.com/sh/WMkQvT9_afc/showposter.jpg?v=4fc8ce33</thumbnail>
+	
+		<items>
+		
+		<item>
+		<title>MTV LIVE HD</title>
+		<link>http://202.75.23.37:8800/live/ch50/01.m3u8</link>
 		</item>
 		
 		<item>
-		<title>CARTOONITO</title>
-		<link>http://202.75.23.36:8800/live/ch49/01.m3u8</link>
+		<title>VJ FASHION</title>
+		<link>http://202.75.23.37:8800/live/ch16/01.m3u8</link>
+		</item>
+		
+		<item>
+		<title>LIFE TIME</title>
+		<link>http://202.75.23.36:8800/live/ch48/01.m3u8</link>
 		</item>
 		
 		<item>
@@ -296,10 +305,20 @@
 		<title>MTV ROCK</title>
 		<link>http://202.75.23.35:8800/live/ch42/01.m3u8</link>
 		</item>
+	
+		</items>
+		
+	</channel>
+	
+	<Channel>
+	<Name>NEWS TV<Name>
+	<thumbnail>http://i1.ytimg.com/sh/WMkQvT9_afc/showposter.jpg?v=4fc8ce33</thumbnail>
+	
+		<items>
 		
 		<item>
-		<title>ASN SPORT</title>
-		<link>http://202.75.23.33:8800/live/ch26/01.m3u8</link>
+		<title>MEDIACORP</title>
+		<link>http://202.75.23.37:8800/live/ch15/01.m3u8</link>
 		</item>
 		
 		<item>
@@ -310,5 +329,4 @@
 		</items>
 		
 	</channel>
-	
 </channels>
