@@ -69,26 +69,25 @@
 		<item>
 		<title>METRO TV</title>
 		<link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
+		<thumbnail>http://lowongan.um-surabaya.ac.id/wp-content/uploads/2012/11/Walk-Interview-MetroTV.jpg</thumbnail>
 		</item>
 		
 		<item>
 		<title>TRANS TV</title>
 		<link>http://202.75.23.33:8800/live/ch23/01.m3u8</link>
+		<thumbnail>http://img2.wikia.nocookie.net/__cb20120627100547/logopedia/images/1/14/TransTV_lama.png</thumbnail>
 		</item>
 		
 		<item>
 		<title>TRANS 7</title>
 		<link>http://202.75.23.33:8800/live/ch24/01.m3u8</link>
+		<thumbnail>http://2.bp.blogspot.com/-X1H6M8Ow70w/UrKOQIkSO_I/AAAAAAAAAD0/lg34PS_AT7Q/s200/trans7.jpg</thumbnail>
 		</item>
 
 		<item>
 		<title>TVRI</title>
 		<link>http://202.75.23.33:8800/live/ch25/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>METRO TV</title>
-		<link>http://202.75.23.33:8800/live/ch22/01.m3u8</link>
+		<thumbnail>http://4.bp.blogspot.com/-Seom6CHsydM/UJ0oo0eMA7I/AAAAAAAAAeA/9F1bUZt8MDw/s320/TVRI.png</thumbnail>
 		</item>
 		
 		</items>
