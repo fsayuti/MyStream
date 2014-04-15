@@ -271,9 +271,8 @@
 		</item>
 		
 		<item>
-		<title>FOX SPORT</title>
-		<link>http://123.29.74.98/live.vs?c=vstv042&q=high&type=tv&tk=57cc8f05d45e5cd7b38bbcb63f27d6b4&token=XDUIcoFXBMW9H9bcAGcZzA&time=1392191036
-</link>
+		<title>BEIN1</title>
+		<link>rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 		
 		</items>
