@@ -276,9 +276,10 @@
 		</item>
 		
 		<item>
-		<title>M Channel</title>
-		<link>http://fw01.livem3u8.me.totiptv.com/live/97f3052bec96482584c5de84dda0d745.m3u8?bitrate=800</link>
+		<title>ZAA Channel</title>
+		<link>http://110.164.192.112:1935/LiveStream/zaa_live1.stream/hasbahca.m3u</link>
 		</item>
+		
 		</items>
 		
 	</channel>
