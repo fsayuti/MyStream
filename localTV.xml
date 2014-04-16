@@ -275,10 +275,7 @@
 		<link>rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 		
-		<item>
-		<title>ZAA Channel</title>
-		<link>http://110.164.192.112:1935/LiveStream/zaa_live1.stream/hasbahca.m3u</link>
-		</item>
+		
 		
 		</items>
 		
