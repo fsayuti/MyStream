@@ -275,6 +275,10 @@
 		<link>rtmpe://46.246.124.39:1935/redirect playpath=BST1 pageUrl=http://www.hdcast.org/</link>
 		</item>
 		
+		<item>
+		<title>STAR SPORT</title>
+		<link>http://m24.megafun.vn/live.vs?c=vstv033&q=high</link>
+		</item>
 		</items>
 		
 	</channel>
