@@ -277,7 +277,7 @@
 		
 		<item>
 		<title>SKY SPORT2</title>
-		<link>rtmp://31.220.0.103:1935/live playpath=ss2x swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/</link>
+		<link>rtmpe://94.242.228.24:443/ app=liveedge/ playpath=sky18719 pageurl=http://zingo.tv/watch.php?id=653&width=600&height=450</link>
 		</item>
 		
 		</items>
