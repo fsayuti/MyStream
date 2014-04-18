@@ -276,11 +276,6 @@
 		</item>
 		
 		<item>
-		<title>SKY SPORT1</title>
-		<link>rtmpe://89.46.102.70:443/liveedge playpath=newsky1 swfurl=http://hqstreams.tv/jwplayer/jwplayer.flash.swf pageUrl=http://hqstreams.tv/</link>
-		</item>
-		
-		<item>
 		<title>SKY SPORT2</title>
 		<link>rtmpe://94.242.228.24:443/ app=liveedge/ playpath=sky18719 pageurl=http://zingo.tv/watch.php?id=653&width=600&height=450</link>
 		</item>
