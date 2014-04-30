@@ -97,9 +97,33 @@
 		</item>
 		
 		<item>
-		<title>TVRI</title>
-		<link>http://118.97.167.8/jhos/aliftv/Playlist.m3u8</link>
-		<thumbnail>http://logo4free.net/logo/upload/2013/08/30/20130830170245-47036b3d.gif</thumbnail>
+		<title>Indosiar</title>
+		<link>rtsp://cdn.mivo.tv/mivotvjkt/indosiar2</link>
+		<thumbnail>http://img3.wikia.nocookie.net/__cb20120627061753/logopedia/images/3/39/INDOSIAR_Logo.png</thumbnail>
+		</item>
+		
+		<item>
+		<title>AnTV</title>
+		<link>rtsp://cdn.mivo.tv/mivotvjkt/antv2</link>
+		<thumbnail>http://1.bp.blogspot.com/-PDPggop1FYc/UZ3HsomuFcI/AAAAAAAABiE/gusSA31FPrg/s1600/Antv.png</thumbnail>
+		</item>
+		
+		<item>
+		<title>Global TV</title>
+		<link>rtsp://cdn.mivo.tv/mivotvjkt/globaltv2</link>
+		<thumbnail>http://usimages.detik.com/content/2011/01/05/283/logo_globalTV_dalam.jpg</thumbnail>
+		</item>
+		
+		<item>
+		<title>SCTV</title>
+		<link>rtsp://cdn.mivo.tv/mivotvjkt/sctv2</link>
+		<thumbnail>http://3.bp.blogspot.com/-h0PrCHAJzNo/Ute6GvqMZGI/AAAAAAAACoI/KF_xPaBLzi0/s1600/Logo+SCTV.png</thumbnail>
+		</item>
+		
+		<item>
+		<title>MNC</title>
+		<link>rtsp://cdn.mivo.tv/mivotvjkt/mnctv2</link>
+		<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png</thumbnail>
 		</item>
 		
 		</items>
