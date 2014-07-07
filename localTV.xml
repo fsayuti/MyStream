@@ -11,20 +11,33 @@
 		<item>
 		<title>TV1</title>
 		<link>http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/chunklist_b1089536.m3u8</link>
-		<thumbnail>http://3.bp.blogspot.com/-0awyxS7rW9A/T17FKgVAcaI/AAAAAAAAAPY/QO1MnxC7aiY/s1600/tvi-malaysia.png</thumbnail>
+		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tv1/tv1.png</thumbnail>
 		</item>
 		
 		<item>
-		<title>TVi</title>
-		<link>http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/chunklist_b365536.m3u8</link>
-		<thumbnail>http://1.bp.blogspot.com/-_M6LBi6FrBM/UMVzmbgyx9I/AAAAAAAAAS4/QXxZfHyEHyY/s1600/rtm1.jpg</thumbnail>
+		<title>RTM TVi</title>
+		<link>http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8</link>
+		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png</thumbnail>
 		</item>
 
 		<item>
 		<title>TV2</title>
 		<link>http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/chunklist_b1089536.m3u8</link>
-		<thumbnail>http://2.bp.blogspot.com/-PWrDkdKk1V8/UZhj9O3S64I/AAAAAAAAASE/6HJVx63nqjE/s320/rtm+2.png</thumbnail>
+		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tv2/tv2.png</thumbnail>
 		</item>
+		
+		<item>
+		<title>RTM Muzik Aktif</title>
+		<link>http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8</link>
+		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/muzikaktif/muzikaktif.png</thumbnail>
+		</item>
+		
+		<item>
+		<title>RTM 1News</title>
+		<link>http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8</link>
+		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png</thumbnail>
+		</item>
+
 
 		<item>
 		<title>TV3</title>
@@ -62,13 +75,7 @@
 		<thumbnail>http://mindaaktif.net/wp-content/uploads/2013/10/tvalhijrah.jpg</thumbnail>
 		</item>
 	
-	        <item>
-		<title>Bernama TV</title>
-		<link>http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama_all.smil/manifest.m3u8</link>
-		<thumbnail>http://3.bp.blogspot.com/-G41NXws7Ljs/UMwb4OFu3UI/AAAAAAAAAYQ/mDI9be127Dc/s1600/bernamatv.jpg</thumbnail>
-		</item>
-	
-		</items>
+	        </items>
 	
 	</Channel>
 	
