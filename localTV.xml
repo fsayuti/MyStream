@@ -140,12 +140,6 @@
 		</item>
 		
 		<item>
-        	<title>TVONE</title>         
-        	<link>rtmp://cdn.mivo.tv/mivotvjkt/ pageUrl=http://mivo.tv/home.php conn=S:PLAYER live=true playpath=tvone2 token=#8888#9999</link>
-        	<thumbnail>http://header_logo.gif</thumbnail>
-    		</item>	
-    		
-    		<item>
         	<title>DAAITV</title>         
 		<link>rtmp://cdn.mivo.tv/mivotvjkt/ pageUrl=http://mivo.tv/home.php conn=S:PLAYER live=true playpath=daaitv2 token=#8888#9999</link>
         	<thumbnail>http://header_logo.gif</thumbnail>
@@ -209,12 +203,6 @@
 		<item>
 		<title>MGM</title>
 		<link>http://202.75.23.35:8800/live/ch40/01.m3u8</link>
-		</item>
-		
-		<item>
-		<title>FOX v1</title>
-		<link>http://95.188.113.180:1234/udp/233.7.70.154:5000</link>
-		<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_asia.png</thumbnail>
 		</item>
 		
 		</items>
