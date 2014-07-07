@@ -211,6 +211,12 @@
 		<link>http://202.75.23.35:8800/live/ch40/01.m3u8</link>
 		</item>
 		
+		<item>
+		<title>FOX v1</title>
+		<link>http://95.188.113.180:1234/udp/233.7.70.154:5000</link>
+		<thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_asia.png</thumbnail>
+		</item>
+		
 		</items>
 		
 	</channel>
