@@ -205,6 +205,12 @@
 		<link>http://202.75.23.35:8800/live/ch40/01.m3u8</link>
 		</item>
 		
+	 	<item>
+﻿          	<title>HBO HD</title>
+﻿          	<link>rtmp://s6.webport.tv/live/ playpath=z010402.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+﻿          	<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
+﻿      		</item>
+		
 		</items>
 		
 	</channel>
