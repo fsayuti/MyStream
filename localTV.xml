@@ -139,6 +139,18 @@
 		<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/06/MNCTV_MNC-Group.png</thumbnail>
 		</item>
 		
+		<item>
+        	<title>TVONE</title>         
+        	<link>rtmp://cdn.mivo.tv/mivotvjkt/ pageUrl=http://mivo.tv/home.php conn=S:PLAYER live=true playpath=tvone2 token=#8888#9999</link>
+        	<thumbnail>http://header_logo.gif</thumbnail>
+    		</item>	
+    		
+    		<item>
+        	<title>DAAITV</title>         
+		<link>rtmp://cdn.mivo.tv/mivotvjkt/ pageUrl=http://mivo.tv/home.php conn=S:PLAYER live=true playpath=daaitv2 token=#8888#9999</link>
+        	<thumbnail>http://header_logo.gif</thumbnail>
+    		</item>
+		
 		</items>
 		
 	</channel>
