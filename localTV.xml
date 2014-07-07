@@ -207,8 +207,13 @@
 		
 	 	<item>
 ﻿          	<title>HBO HD</title>
-﻿          	<link>rtmp://s6.webport.tv/live/ playpath=z010402.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf"  pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
+﻿          	<link>rtmp://s6.webport.tv/live/</link>
+		<playpath>playpath=z010402.stream</playpath>
+		<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
+		<pageurl>http://www.tvsector.com/national-geographic-nat-geo-hd/</pageurl>	
 ﻿          	<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
+﻿          	<advanced>live=1</advanced>
+﻿          	<language>english</language>
 ﻿      		</item>
 		
 		</items>
