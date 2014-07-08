@@ -192,7 +192,7 @@
 		
 		<item>
 		<title>HBO</title>
-		<link>http://8.12.105.44:8085/udp/239.34.153.91:1234</link>
+		<link>rtmp://$OPT:rtmp-raw=rtmpe://198.24.174.90:1935/goLive playpath=hbo.stream swfUrl=http://b17014255105be61b178-d8c0dbd82389bad2adcb7a22d1883b64.r92.cf5.rackcdn.com/jwplayer.flash.swf live=1 pageUrl=http://envivo.pw/ token=OOG17t.x#K9Vh#|</link>
 		</item>
 		
 		<item>
