@@ -205,31 +205,20 @@
 		<link>http://202.75.23.35:8800/live/ch40/01.m3u8</link>
 		</item>
 		
+		<item>
+﻿          	<title>HBO HD</title>
+﻿          	<link>rtmp://s6.webport.tv/live/ playpath=z010402.stream http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf http://www.tvsector.com/national-geographic-nat-geo-hd/ live=1   </link>
+﻿          	<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
+﻿      		</item>
+		
+		<item>
+		<title>MGM HD</title>
+		<link>rtmp://s7.webport.tv/live/z020401.stream http://tvsector.com/mediaplayer/player.swf http://tvsector.com/ z020401.stream live=1</link>
+		</item>	
+			
 	 	</items>
 		
-		<streams>
-		<stream>
-﻿          	<title>HBO HD</title>
-﻿          	<link>rtmp://s6.webport.tv/live/</link>
-		<playpath>playpath=z010402.stream</playpath>
-		<swfUrl>http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</swfUrl>
-		<pageurl>http://www.tvsector.com/national-geographic-nat-geo-hd/</pageurl>	
-﻿          	<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
-﻿          	<advanced>live=1</advanced>
-﻿          	<language>english</language>
-﻿      		</stream>
 		
-		<stream>
-		<title>MGM HD</title>
-    		<swfUrl>http://tvsector.com/mediaplayer/player.swf</swfUrl>
-		<link>rtmp://s7.webport.tv/live/z020401.stream</link>
-		<pageUrl>http://tvsector.com/</pageUrl>
-		<playpath>z020401.stream</playpath>
-		<language>English</language>
-		<advanced>live=1</advanced>
-		</stream>	
-			
-		</streams>
 		
 	</channel>
 	
