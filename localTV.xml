@@ -205,6 +205,11 @@
 		<link>http://202.75.23.35:8800/live/ch40/01.m3u8</link>
 		</item>
 		
+		<item>
+		<title>HD Movie</title>
+		<link>http://91.224.16.9:13654/udp/239.100.0.107:1234</link>
+		</item>
+		
 		</items>
 		
 		
