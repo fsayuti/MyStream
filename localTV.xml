@@ -303,25 +303,35 @@
 		<items>
 
 		<item>
-		<title>BEIN SPORT 1</title>
-		<link>http://202.75.23.37:8800/live/ch18/01.m3u8</link>
+		<title>BEIN SPORT 1 HD</title>
+		<link>http://iuu8000:iuu8000@romo.selfip.com:5002/1.ch</link>
 		</item>
 		
 		<item>
-		<title>BEIN SPORT 2</title>
-		<link>http://202.75.23.37:8800/live/ch19/01.m3u8</link>
+		<title>BEIN SPORT 2 HD</title>
+		<link>http://iuu8000:iuu8000@romo.selfip.com:5002/2.ch</link>
 		</item>
 		
 		<item>
-		<title>SPORT DE COMBART</title>
-		<link>http://202.75.23.37:8800/live/ch20/01.m3u8</link>
+		<title>BEIN SPORT 3 HD</title>
+		<link>http://iuu8000:iuu8000@romo.selfip.com:5002/3.ch</link>
 		</item>
 
 		<item>
-		<title>EUROSPORT</title>
-		<link>http://202.75.23.37:8800/live/ch21/01.m3u8</link>
+		<title>BEIN SPORT 4 HD</title>
+		<link>http://iuu8000:iuu8000@romo.selfip.com:5002/4.ch</link>
 		</item>
 		
+		<item>
+		<title>beIN Sport 5 HD</title>
+		<link>http://iuu8000:iuu8000@romo.selfip.com:5002/5.ch</link> 
+		</item>
+
+		<item>
+		<title>beIN Sport 6 HD</title> 
+		<link>http://iuu8000:iuu8000@romo.selfip.com:5002/6.ch</link>
+		</item>
+
 		<item>
 		<title>SENTANA SPORT</title>
 		<link>http://202.75.23.36:8800/live/ch44/01.m3u8</link>
