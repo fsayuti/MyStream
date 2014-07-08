@@ -338,9 +338,8 @@
 		</item>
 		
 		<item>
-		<title>SKY SPORT2</title>
-		<link>rtmp://31.220.0.104:1935/live playpath=sky1italia swfUrl=http://p.jwpcdn.com/6/8/jwplayer.flash.swf live=1 pageUrl=http://www.eucast.tv/embed.php?live=sky1italia&vw=620&vh=490
-</link>
+		<title>BEIN SPORT HD</title>
+		<link>http://iuu8000:iuu8000@romo.selfip.com:5002/1.ch</link>
 		</item>
 		
 		</items>
