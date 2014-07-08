@@ -216,6 +216,17 @@
 ﻿          	<language>english</language>
 ﻿      		</item>
 		
+		<item>
+		<title>MGM HD</title>
+    		<swfUrl>http://tvsector.com/mediaplayer/player.swf</swfUrl>
+		<link>rtmp://s7.webport.tv/live/z020401.stream</link>
+		<pageUrl>http://tvsector.com/</pageUrl>
+		<playpath>z020401.stream</playpath>
+		<language>English</language>
+		<advanced>live=1</advanced>
+		<item>
+
+		
 		</items>
 		
 	</channel>
