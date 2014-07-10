@@ -210,13 +210,13 @@
     		
 		<item>
         	<title>HBO</title>         
-        	<link>http://8.12.105.44:8085/udp/239.34.153.91:1234</link>
+        	<link>http://171.101.25.19:8988/ipvt_007</link>
         	<thumbnail>http://4vector.com/i/free-vector-cartoon-cricket-clip-art_118582_Cartoon_Cricket_clip_art_hight.png</thumbnail>
     		</item>	
 		
 		<item>
 		<title>HBO HITS</title>
-		<link>rtmp://toniptv.no-ip.biz:1935/live/_definst_/peihbo.stream</link>
+		<link>rtsp://toniptv.no-ip.biz:1935/live/_definst_/peihbo.stream</link>
 		</item>
 		
 		<item>
@@ -225,8 +225,8 @@
 		</item>
 		
 		<item>
-		<title>HBO Movie</title>
-		<link>http://144.76.153.80:80/HBO</link>
+		<title>HBO Signature</title>
+		<link>http://171.101.25.19:8988/ipvt_015</link>
 		</item>
 		
 		</items>
