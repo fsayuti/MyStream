@@ -191,9 +191,28 @@
 		</item>
 		
 		<item>
-		<title>HBO</title>
-		<link>http://87.251.151.253:4022/udp/230.3.3.135:5678</link>
-		</item>
+        	<title>FOX MOVIES</title>         
+        	<link>http://130.0.24.5:9999/udp/225.255.255.113:30000</link>
+        	<thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fx_us.png</thumbnail>
+    		</item>	
+		
+		<item>
+		<title>Film Aksion</title>         
+        	<link>http://149.255.39.122/aasd/8742/index.m3u8</link>
+        	<thumbnail>http://4vector.com/i/free-vector-cartoon-cricket-clip-art_118582_Cartoon_Cricket_clip_art_hight.png</thumbnail>
+    		</item>	
+    		
+		<item>
+        	<title>Film komedi</title>         
+        	<link>http://149.255.39.122/aasd/8752/index.m3u8</link>
+        	<thumbnail>http://4vector.com/i/free-vector-cartoon-cricket-clip-art_118582_Cartoon_Cricket_clip_art_hight.png</thumbnail>
+    		</item>	
+    		
+		<item>
+        	<title>HBO</title>         
+        	<link>http://8.12.105.44:8085/udp/239.34.153.91:1234</link>
+        	<thumbnail>http://4vector.com/i/free-vector-cartoon-cricket-clip-art_118582_Cartoon_Cricket_clip_art_hight.png</thumbnail>
+    		</item>	
 		
 		<item>
 		<title>HBO HITS</title>
@@ -206,8 +225,8 @@
 		</item>
 		
 		<item>
-		<title>HD Movie</title>
-		<link>http://91.224.16.9:13654/udp/239.100.0.107:1234</link>
+		<title>HBO Movie</title>
+		<link>http://144.76.153.80:80/HBO</link>
 		</item>
 		
 		</items>
