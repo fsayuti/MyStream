@@ -209,14 +209,14 @@
     		</item>	
     		
 		<item>
-        	<title>HBO</title>         
-        	<link>http://171.101.25.19:8988/ipvt_007</link>
+        	<title>Mini HD</title>         
+        	<link>http://inea.live.e1-inos.insyscd.net/miniminihd.smil/chunklist_.m3u8</link>
         	<thumbnail>http://4vector.com/i/free-vector-cartoon-cricket-clip-art_118582_Cartoon_Cricket_clip_art_hight.png</thumbnail>
     		</item>	
 		
 		<item>
-		<title>HBO HITS</title>
-		<link>rtsp://toniptv.no-ip.biz:1935/live/_definst_/peihbo.stream</link>
+		<title>FilmBox Action</title>
+		<link>http://inea.live.e1-inos.insyscd.net/filmboxaction.smil/chunklist_b2400000.m3u8</link>
 		</item>
 		
 		<item>
@@ -225,8 +225,8 @@
 		</item>
 		
 		<item>
-		<title>HBO Signature</title>
-		<link>http://171.101.25.19:8988/ipvt_015</link>
+		<title>FilmBox HD</title>
+		<link>http://inea.live.e1-inos.insyscd.net/filmboxhd.smil/chunklist_b2400000.m3u8</link>
 		</item>
 		
 		</items>
