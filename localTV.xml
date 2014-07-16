@@ -215,23 +215,21 @@
     		</item>	
 		
 		<item>
-		<title>FilmBox Action</title>
-		<link>http://inea.live.e1-inos.insyscd.net/filmboxaction.smil/chunklist_b2400000.m3u8</link>
-		</item>
-		
-		<item>
 		<title>MGM</title>
 		<link>http://202.75.23.35:8800/live/ch40/01.m3u8</link>
 		</item>
 		
 		<item>
-		<title>FilmBox HD</title>
-		<link>http://inea.live.e1-inos.insyscd.net/filmboxhd.smil/chunklist_b2400000.m3u8</link>
+		<title>FilmBox Extra</title>
+		<link>http://inea.live.e1-inos.insyscd.net/filmboxextra.smil/chunklist_b2400000.m3u8</link>
+		</item>
+		
+		<item>
+		<title>FilmBox Family</title>
+		<link>http://inea.live.e1-inos.insyscd.net/filmboxfamily.smil/chunklist_b2400000.m3u8</link>
 		</item>
 		
 		</items>
-		
-		
 		
 	</channel>
 	
