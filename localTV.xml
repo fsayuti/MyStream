@@ -65,7 +65,7 @@
 
 		<item>
 		<title>Astro Awani</title>
-		<link>http://measatott06-i.akamaihd.net/hls/live/202857/OTT_06/master_01.m3u8</link>
+		<link>rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15</link>
 		<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
 		</item>
 		
