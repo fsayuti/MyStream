@@ -145,6 +145,13 @@
         	<thumbnail>http://header_logo.gif</thumbnail>
     		</item>
 		
+		<item>
+		<title>Alif TV</title>
+		<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-aliftv/playlist.m3u8</link>
+		<thumbnail>http://hardwarecrazy.com/gambar/albums/userpics/10001/aliftv.jpg</thumbnail>
+		</item>
+
+		
 		</items>
 		
 	</channel>
