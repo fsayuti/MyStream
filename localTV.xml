@@ -227,13 +227,13 @@
 		</item>
 		
 		<item>
-		<title>FilmBox Extra</title>
-		<link>http://inea.live.e1-inos.insyscd.net/filmboxextra.smil/chunklist_b2400000.m3u8</link>
+		<title>HBO</title>
+		<link>rtmp://103.5.45.180/myLiveApp/bolaskor//bolaskor_streaming</link>
 		</item>
 		
 		<item>
-		<title>FilmBox Family</title>
-		<link>http://inea.live.e1-inos.insyscd.net/filmboxfamily.smil/chunklist_b2400000.m3u8</link>
+		<title>Star Movie</title>
+		<link>http://203.162.235.26/lives/origin03/moviehdmb.isml/moviehdmb-364k.m3u8</link>
 		</item>
 		
 		</items>
