@@ -80,6 +80,22 @@
 	</Channel>
 	
 	<Channel>
+	<Name>Brunei<Name>
+	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/04/Animated-Flag-Brunei.gif</thumbnail>
+	
+		<items>
+	
+		<item>
+		<title>METRO TV</title>
+		<link>rtsp://202.160.15.86/stream-03-512</link>
+		<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/39/Radio_Television_Brunei.gif</thumbnail>
+		</item>
+
+		</items>
+	
+	</Channel>
+	
+	<Channel>
 	<Name>Indonesia TV<Name>
 	<thumbnail>http://www.mega-flags.com/images/Flag_Indonesia.jpg</thumbnail>
 	
