@@ -121,7 +121,7 @@
 
 		<item>
 		<title>TVRI</title>
-		<link>http://202.75.23.33:8800/live/ch25/01.m3u8</link>
+		<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-tvri/chunklist.m3u8</link>
 		<thumbnail>http://4.bp.blogspot.com/-Seom6CHsydM/UJ0oo0eMA7I/AAAAAAAAAeA/9F1bUZt8MDw/s320/TVRI.png</thumbnail>
 		</item>
 		
@@ -171,6 +171,12 @@
 		<title>Kompas TV</title>
 		<link>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-kompastv/chunklist_b1232000000.m3u8</link>
 		<thumbnail>http://tvkuindo.files.wordpress.com/2011/08/279633_203790569673183_177732508945656_606969_1593795_o.jpg</thumbnail>
+		</item>
+		
+		<item>
+		<title>ARENA</title>
+		<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-arena/chunklist.m3u8</link>
+		<thumbnail>http://letseetv.com/wp-content/uploads/2014/01/Arena-Tv-LetSeeTV.png</thumbnail>
 		</item>
 		
 		</items>
