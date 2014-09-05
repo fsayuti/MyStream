@@ -127,7 +127,7 @@
 		
 		<item>
 		<title>Indosiar</title>
-		<link>http://wpc.d2bf.edgecastcdn.net/hls-live/20D2BF/indosiar/tv/stream650.m3u8</link>
+		<link>http://www.useetv.com/jhos/tellin/indosiar.m3u8</link>
 		<thumbnail>http://img3.wikia.nocookie.net/__cb20120627061753/logopedia/images/3/39/INDOSIAR_Logo.png</thumbnail>
 		</item>
 		
@@ -145,7 +145,7 @@
 		
 		<item>
 		<title>SCTV</title>
-		<link>http://wpc.d2bf.edgecastcdn.net/hls-live/20D2BF/sctv/tv/stream650.m3u8</link>
+		<link>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-sctv/chunklist_b432000000.m3u8</link>
 		<thumbnail>http://3.bp.blogspot.com/-h0PrCHAJzNo/Ute6GvqMZGI/AAAAAAAACoI/KF_xPaBLzi0/s1600/Logo+SCTV.png</thumbnail>
 		</item>
 		
@@ -157,19 +157,19 @@
 		
 		<item>
         	<title>TV One</title>         
-		<link>http://stream3.beritasatumedia.com:1937/live/smil:myStream.smil/chunklist-b2270208.m3u8</link>
+		<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-beritasatu/chunklist.m3u8</link>
         	<thumbnail>http://2.bp.blogspot.com/-00rdbT8GVDI/U711bcNGgfI/AAAAAAAAC7w/pUvepbaywmM/s1600/tv_one_id.png</thumbnail>
     		</item>
 		
 		<item>
 		<title>Alif TV</title>
-		<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-aliftv/playlist.m3u8</link>
+		<link>http://edge.telin.swiftserve.com/live/livetv-sbr/u-aliftv/chunklist.m3u8</link>
 		<thumbnail>http://hardwarecrazy.com/gambar/albums/userpics/10001/aliftv.jpg</thumbnail>
 		</item>
 		
 		<item>
 		<title>Kompas TV</title>
-		<link>http://202.75.23.50:1400/live/ch9/03.m3u8</link>
+		<link>http://edge.telin.swiftserve.com/live/livetv-mbr/amlst:m-kompastv/chunklist_b1232000000.m3u8</link>
 		<thumbnail>http://tvkuindo.files.wordpress.com/2011/08/279633_203790569673183_177732508945656_606969_1593795_o.jpg</thumbnail>
 		</item>
 		
