@@ -75,6 +75,12 @@
 		<thumbnail>http://mindaaktif.net/wp-content/uploads/2013/10/tvalhijrah.jpg</thumbnail>
 		</item>
 	
+	        <item>
+		<title>Maya HD</title>
+		<link>rtsp://selangit-dev.selangit.org/live/</link>
+		<thumbnail>http://www.astroradar.my/_files/logo/Astro%20Maya%20HD%20Logo%20(1).jpg</thumbnail>
+		</item>
+	
 	        </items>
 	
 	</Channel>
