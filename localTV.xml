@@ -10,8 +10,14 @@
 		
 		<item>
 		<title>TV1</title>
-		<link>http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/chunklist_b1089536.m3u8</link>
+		<link>http://turbo.stream.my/transcode/mp4:rtm-ch001.stream_480p/playlist.m3u8</link>
 		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tv1/tv1.png</thumbnail>
+		</item>
+		
+		<item>
+		<title>TV2</title>
+		<link>http://turbo.stream.my/transcode/mp4:rtm-ch003.stream_480p/playlist.m3u8</link>
+		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tv2/tv2.png</thumbnail>
 		</item>
 		
 		<item>
@@ -20,12 +26,6 @@
 		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png</thumbnail>
 		</item>
 
-		<item>
-		<title>TV2</title>
-		<link>http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/chunklist_b1089536.m3u8</link>
-		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tv2/tv2.png</thumbnail>
-		</item>
-		
 		<item>
 		<title>RTM Muzik Aktif</title>
 		<link>http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8</link>
@@ -37,7 +37,6 @@
 		<link>http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_all/playlist.m3u8</link>
 		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/1news/1news.png</thumbnail>
 		</item>
-
 
 		<item>
 		<title>TV3</title>
@@ -65,7 +64,7 @@
 
 		<item>
 		<title>Astro Awani</title>
-		<link>rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15</link>
+		<link>http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8</link>
 		<thumbnail>http://upload.wikimedia.org/wikipedia/ms/e/ee/Astro-awani.jpg</thumbnail>
 		</item>
 		
@@ -74,13 +73,13 @@
 		<link>http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/media_b508239_w1246988830.m3u8</link>
 		<thumbnail>http://mindaaktif.net/wp-content/uploads/2013/10/tvalhijrah.jpg</thumbnail>
 		</item>
-	
-	        <item>
-		<title>Maya HD</title>
-		<link>rtsp://selangit-dev.selangit.org/live/</link>
-		<thumbnail>http://www.astroradar.my/_files/logo/Astro%20Maya%20HD%20Logo%20(1).jpg</thumbnail>
+
+		<item>
+		<title>Bernama TV</title>
+		<link>http://stream2.1malaysiaiptv.com:1935/mylive/smil:bernama2_all.smil/media.m3u8</link>
+		<thumbnail>http://4.bp.blogspot.com/-uZR-Sa9OKB0/T5s1Dbo1TDI/AAAAAAAAAnQ/XXEY-6xcn0g/s320/bernama%2Btv.jpg</thumbnail>
 		</item>
-	
+
 	        </items>
 	
 	</Channel>
