@@ -21,12 +21,6 @@
 		</item>
 		
 		<item>
-		<title>RTM TVi</title>
-		<link>http://turbo.stream.my/transcode/mp4:rtm-ch005.stream_480p/playlist.m3u8</link>
-		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png</thumbnail>
-		</item>
-
-		<item>
 		<title>RTM Muzik Aktif</title>
 		<link>http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8</link>
 		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/muzikaktif/muzikaktif.png</thumbnail>
@@ -81,22 +75,6 @@
 		</item>
 
 	        </items>
-	
-	</Channel>
-	
-	<Channel>
-	<Name>Brunei<Name>
-	<thumbnail>http://upload.wikimedia.org/wikipedia/commons/0/04/Animated-Flag-Brunei.gif</thumbnail>
-	
-		<items>
-	
-		<item>
-		<title>RTB</title>
-		<link>rtsp://202.160.15.86/stream-03-512</link>
-		<thumbnail>http://upload.wikimedia.org/wikipedia/en/3/39/Radio_Television_Brunei.gif</thumbnail>
-		</item>
-
-		</items>
 	
 	</Channel>
 	
