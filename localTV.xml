@@ -22,7 +22,7 @@
 		
 		<item>
 		<title>RTM TVi</title>
-		<link>http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8</link>
+		<link>http://turbo.stream.my/transcode/mp4:rtm-ch005.stream_480p/playlist.m3u8</link>
 		<thumbnail>http://m.rtm.gov.my/en/img/logostesentv/tvi/tvi.png</thumbnail>
 		</item>
 
