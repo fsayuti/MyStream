@@ -74,6 +74,11 @@
 		<thumbnail>http://4.bp.blogspot.com/-uZR-Sa9OKB0/T5s1Dbo1TDI/AAAAAAAAAnQ/XXEY-6xcn0g/s320/bernama%2Btv.jpg</thumbnail>
 		</item>
 
+		<item>
+		<title>Mecca Live</title>
+		<link>rtsp://livestreaming2.itworkscdn.net/squranlive/squran_360p</link>
+		<thumbnail>http://i.ytimg.com/vi/UGLXxfBK1m8/hqdefault.jpg</thumbnail>
+		</item>
 	        </items>
 	
 	</Channel>
